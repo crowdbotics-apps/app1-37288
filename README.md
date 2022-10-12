@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-login](screens/login)
 - [screen-onboarding-choose-industry](screens/onboarding-choose-industry)
 - [react-native-onboarding](modules/onboarding)
+- [react-native-app-menu](modules/app-menu)
 
 # Getting started: Frontend
 
