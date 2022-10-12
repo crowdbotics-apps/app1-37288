@@ -1236,7 +1236,10 @@
 "@screens/leaderboard-screen@file:./screens/leaderboard-screen":
   version "1.0.0"
 
-"@screens/login@file:./screens/login/":
+"@screens/login@file:./screens/login":
+  version "1.0.0"
+
+"@screens/onboarding-choose-industry@file:./screens/onboarding-choose-industry/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
